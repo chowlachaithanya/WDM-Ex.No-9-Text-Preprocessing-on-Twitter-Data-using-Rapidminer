@@ -30,3 +30,4 @@ e. Remove Numbers: Exclude numeric values from the text.
 <img width="1033" height="600" alt="image" src="https://github.com/user-attachments/assets/c60c2e05-50a9-4797-944c-2079739c0f4d" />
 
 **Result:**
+Preprocessing technique on Twitter Data using Rapidminer is implemented.
